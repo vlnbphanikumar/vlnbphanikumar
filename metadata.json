@@ -1,0 +1,11 @@
+{
+  "name": "VijayaEle_CRM",
+  "description": "Enterprise B2B SaaS CRM for revenue leaders, pipeline management, buying committees, and executive forecasting.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
